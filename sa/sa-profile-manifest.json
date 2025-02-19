@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SA profile1",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/common.json"
+  },
+  {
+    "name": "SA profile 2",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/geological.json"
+  },
+  {
+    "name": "SA profile 3",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/image.json"
+  }
+]
+  
