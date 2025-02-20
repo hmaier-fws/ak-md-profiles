@@ -3,7 +3,7 @@
     "namespace": "gov.fws.sa",
     "title": "SA Test PROJECT Profile 2",
     "description": "Test profile #2 for project metadata entry.",
-    "version": "0.0.1-dev.1",
+    "version": "0.0.1-dev.2",
     "alternateId": " ",
     "components": {
       "record": {
@@ -269,40 +269,16 @@
           "tip": "Basic information about the project."
         },
         {
-          "title": "Metadata",
-          "target": "record.show.edit.metadata",
-          "tip": "Information about the metadata for the project."
-        },
-        {
           "title": "Keywords",
           "target": "record.show.edit.keywords",
           "tip": "Terms used to describe the project."
         },
         {
-          "title": "Extent",
-          "target": "record.show.edit.extent",
-          "tip": "Information describing the geographic bounds of the project."
-        },
-        {
-          "title": "Taxonomy",
-          "target": "record.show.edit.taxonomy",
-          "tip": "Information on the taxa associated with the project."
-        },
-        {
-          "title": "Distribution",
-          "target": "record.show.edit.distribution",
-          "tip": "Information about obtaining project resources."
-        },
         {
           "title": "Funding",
           "target": "record.show.edit.funding",
           "tip": "Information about funding allocated to development of the project."
         },
-        {
-          "title": "Associated",
-          "target": "record.show.edit.associated",
-          "tip": "Other resources with a defined relationship to the project."
-        }
       ]
     }
   }
