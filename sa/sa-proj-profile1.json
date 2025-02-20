@@ -3,7 +3,7 @@
   "namespace": "gov.fws.sa",
   "title": "Ryan is AWESOME!",
   "description": "Test profile #1 for project metadata entry.",
-  "version": "0.0.1-dev.2",
+  "version": "0.0.1-dev.3",
   "alternateId": " ",
   "components": {
     "record": {
@@ -18,16 +18,11 @@
         },
         "pointOfContact": false,
         "citation": false,
-        "desription": false,
+        "description": false,
         "supplementalInfo": false,
         "environmentDescription": false,
         "timePeriod": false,
-        "maintenance": {
-          "dates": false,
-          "contact": false,
-          "scope": false,
-          "note": false
-        },
+        "maintenance": false,
         "graphicOverview": false,
         "credit": false
       },
