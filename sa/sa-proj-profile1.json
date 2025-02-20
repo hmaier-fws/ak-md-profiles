@@ -1,49 +1,49 @@
 {
-    "identifier": "sa-test-proj1",
-    "namespace": "gov.fws.sa",
-    "title": "SA Test Project Profile 1",
-    "description": "Test profile #1 for project metadata entry.",
-    "version": "0.0.1-dev.1",
-    "alternateId": " ",
-    "components": {
-      "record": {
-        "main": {
-          "basicInformation": {
-            "recordId": false,
-            "defaultLocale": false
-          },
-          "citation": false,
-          "supplementalInfo": false,
-          "environmentDescription": false,
-          "timePeriod": false,
-          "maintenance": {
-            "dates": false,
-            "contact": false,
-            "scope": false,
-            "note": false
-          },
-          "graphicOverview": false,
-          "credit": false
+  "identifier": "sa-test-proj1",
+  "namespace": "gov.fws.sa",
+  "title": "SA Test Project Profile 1",
+  "description": "Test profile #1 for project metadata entry.",
+  "version": "0.0.1-dev.1",
+  "alternateId": " ",
+  "components": {
+    "record": {
+      "main": {
+        "basicInformation": {
+          "recordId": false,
+          "defaultLocale": false
         },
-        "metadata": false,
-        "extent": false,
-        "taxonomy": false,
-        "distribution": false, 
-        "funding": false,
-        "associated": false,
-      }
-    },
-    "nav": {
-      "record": [
-        {
-          "title": "SA Menu",
-          "target": "record.show.edit.main",
-          "tip": "No one is going to enter more than this anyway!"
-        }
-      ]
-    },
-    "thesauri": {
-      "name": "LCC Deliverables",
-      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-deliverabletype.json"
+        "citation": false,
+        "supplementalInfo": false,
+        "environmentDescription": false,
+        "timePeriod": false,
+        "maintenance": {
+          "dates": false,
+          "contact": false,
+          "scope": false,
+          "note": false
+        },
+        "graphicOverview": false,
+        "credit": false
+      },
+      "metadata": false,
+      "extent": false,
+      "taxonomy": false,
+      "distribution": false,
+      "funding": false,
+      "associated": false
     }
+  },
+  "nav": {
+    "record": [
+      {
+        "title": "SA Menu",
+        "target": "record.show.edit.main",
+        "tip": "No one is going to enter more than this anyway!"
+      }
+    ]
+  },
+  "thesauri": {
+    "name": "LCC Deliverables",
+    "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-deliverabletype.json"
   }
+}
