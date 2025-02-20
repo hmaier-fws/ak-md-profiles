@@ -1,18 +1,24 @@
 {
   "identifier": "sa-test-proj1",
   "namespace": "gov.fws.sa",
-  "title": "SA Test Project Profile 1",
+  "title": "Ryan is AWESOME!",
   "description": "Test profile #1 for project metadata entry.",
-  "version": "0.0.1-dev.1",
+  "version": "0.0.1-dev.2",
   "alternateId": " ",
   "components": {
     "record": {
       "main": {
         "basicInformation": {
           "recordId": false,
-          "defaultLocale": false
+          "defaultLocale": false,
+          "status": false
         },
+        "resourceType": {
+          "name": false
+        },
+        "pointOfContact": false,
         "citation": false,
+        "desription": false,
         "supplementalInfo": false,
         "environmentDescription": false,
         "timePeriod": false,
