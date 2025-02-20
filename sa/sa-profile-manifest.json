@@ -1,15 +1,14 @@
 [
   {
-    "name": "SA profile1",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/common.json"
+    "name": "SA Project 1",
+    "url": "https://raw.githubusercontent.com/hmaier-fws/ak-md-profiles/refs/heads/sa-profile/sa/sa-proj-profile1.json"
   },
   {
-    "name": "SA profile 2",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/geological.json"
+    "name": "SA Project 2",
+    "url": "https://raw.githubusercontent.com/hmaier-fws/ak-md-profiles/refs/heads/sa-profile/sa/sa-proj-profile2.json"
   },
   {
-    "name": "SA profile 3",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/image.json"
+    "name": "SA Product 1",
+    "url": "https://raw.githubusercontent.com/hmaier-fws/ak-md-profiles/refs/heads/sa-profile/sa/sa-prod-profile1.json"
   }
 ]
-  
