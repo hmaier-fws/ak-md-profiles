@@ -1,9 +1,5 @@
 [
   {
-    "name": "FWS Minimal Product Profile",
-    "url": "https://raw.githubusercontent.com/hmaier-fws/ak-md-profiles/refs/heads/fws-minimal/fws-min-prod.json"
-  },
-  {
     "name": "FWS minimal Project Profile",
     "url": "https://raw.githubusercontent.com/hmaier-fws/ak-md-profiles/refs/heads/fws-minimal/fws-min-proj.json"
   }
