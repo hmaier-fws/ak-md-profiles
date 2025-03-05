@@ -1,9 +1,9 @@
 {
-  "identifier": "FWS-min-project-profile",
+  "identifier": "fws-min-proj-profile",
   "namespace": "gov.fws.profile",
-  "title": "USFWS mom-proj",
-  "description": "Displays FWS minimum discovery level project metadata fields in mdEditor.",
-  "version": "1.0.0-dev.4",
+  "title": "USFWS min-proj",
+  "description": "TEST: FWS minimum discovery level project metadata fields.",
+  "version": "0.0.1-dev.1",
   "components": {
     "record": {
       "main": {
@@ -632,16 +632,6 @@
         "title": "Distribution",
         "target": "record.show.edit.distribution",
         "tip": "Information about obtaining project resources."
-      },
-      {
-        "title": "Funding",
-        "target": "record.show.edit.funding",
-        "tip": "Information about funding allocated to development of the project."
-      },
-      {
-        "title": "Associated",
-        "target": "record.show.edit.associated",
-        "tip": "Other resources with a defined relationship to the project."
       }
     ],
     "dictionary": [
