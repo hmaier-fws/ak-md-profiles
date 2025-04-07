@@ -3,8 +3,8 @@
   "namespace": "gov.fws.sa",
   "alternateId": ["sa-full"],
   "title": "SA Full",
-  "description": "Every supported component",
-  "version": "0.0.1-dev.3",
+  "description": "SA Full with vocab",
+  "version": "0.0.1-dev.4",
   "components": {
     "record": {},
     "contact": {},

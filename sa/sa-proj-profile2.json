@@ -277,7 +277,7 @@
           "title": "Funding",
           "target": "record.show.edit.funding",
           "tip": "Information about funding allocated to development of the project."
-        },
+        }
       ]
     }
   }
