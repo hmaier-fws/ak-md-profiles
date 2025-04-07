@@ -4,7 +4,7 @@
   "alternateId": ["sa-full"],
   "title": "SA Full",
   "description": "Every supported component",
-  "version": "0.0.1-dev.01",
+  "version": "0.0.1-dev.3",
   "components": {
     "record": {},
     "contact": {},
@@ -108,15 +108,15 @@
   },
   "thesauri": [
     {
-      "name": "LCC Project Category",
-      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-category.json"
+      "name": "USGS AK Names",
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-alaska.json"
     },
     {
-      "name": "LCC Deliverable Types",
+      "name": "LCC2 Deliverable Types",
       "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-deliverabletype.json"
     },
     {
-      "name": "LCC End User Types",
+      "name": "LCC3 End User Types",
       "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-usertype.json"
     }
   ]
