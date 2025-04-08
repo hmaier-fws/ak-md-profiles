@@ -108,7 +108,7 @@
   },
   "thesauri": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-alaska.json",
+      "url": "https://raw.githubusercontent.com/USGS-NGGDPP/mdEditor-keywords/refs/heads/main/resources/thesaurus/gnis-domestic-alaska.json",
       "name": "USGS AK Names"
     },
     {
