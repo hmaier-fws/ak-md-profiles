@@ -108,16 +108,20 @@
   },
   "thesauri": [
     {
-      "name": "USGS AK Names",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-alaska.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-alaska.json",
+      "name": "USGS AK Names"
     },
     {
-      "name": "LCC2 Deliverable Types",
-      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-deliverabletype.json"
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-deliverabletype.json",
+      "name": "LCC2 Deliverable Types"
     },
     {
-      "name": "LCC3 End User Types",
-      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-usertype.json"
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-usertype.json",
+      "name": "LCC3 End User Types"
+    },
+    {
+      "name": "USGS primaryPurpose",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/sciencebase-4f4e475ee4b07f02db47df14.json"
     }
   ]
 }
