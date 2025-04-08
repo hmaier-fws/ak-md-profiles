@@ -108,10 +108,6 @@
   },
   "thesauri": [
     {
-      "url": "https://raw.githubusercontent.com/USGS-NGGDPP/mdEditor-keywords/refs/heads/main/resources/thesaurus/gnis-domestic-alaska.json",
-      "name": "USGS AK Names"
-    },
-    {
       "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/lcc-deliverabletype.json",
       "name": "LCC2 Deliverable Types"
     },
